@@ -1,0 +1,2 @@
+<map id="NPrintIP::is_iterable&lt; T, std::void_t&lt; decltype(std::declval&lt; T &gt;().begin() !=std::declval&lt; T &gt;().end()), decltype(std::declval&lt; T &gt;().size()), decltype(++std::declval&lt; T &gt;().begin())&gt; &gt;" name="NPrintIP::is_iterable&lt; T, std::void_t&lt; decltype(std::declval&lt; T &gt;().begin() !=std::declval&lt; T &gt;().end()), decltype(std::declval&lt; T &gt;().size()), decltype(++std::declval&lt; T &gt;().begin())&gt; &gt;">
+</map>
